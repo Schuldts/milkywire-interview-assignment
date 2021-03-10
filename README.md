@@ -1,5 +1,5 @@
 # Reflections
-Here are some of my thoughts that I had while working with the case. 
+Here are some of my thoughts that I had while working with the case. I worked on the **backend** assignment. 
 
 ## Testing:
 I made tests that made sure that the functions used by the “GET” endpoints of the API returned correct status codes. If I would have had more time then there are a lot of other testing I would have done. 
